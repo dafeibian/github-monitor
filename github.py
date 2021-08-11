@@ -66,7 +66,7 @@ if __name__=='__main__':
       result=[]
       datas_name=[]
       datas_url=[]
-      time.sleep(3600)#每一天请求一次
+      time.sleep(3600*24)#每一天请求一次
 
 
 
