@@ -3,7 +3,7 @@
 
 由于GitHub的api有请求限制，建议带上token请求
 
-[token申请教程](https://blog.csdn.net/weixin_39200308/article/details/80643704)
+[token申请教程](https://blog.csdn.net/u014175572/article/details/55510825?winzoom=1)
 
 请不要开代理请求否则可能会报错，运行后会在本地生成output.csv文件
 
